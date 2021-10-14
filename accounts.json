@@ -1,0 +1,45 @@
+{
+  "nextId": 13,
+  "accounts": [
+    {
+      "id": 1,
+      "name": "Leonardo Castro",
+      "balance": 15001.2
+    },
+    {
+      "id": 2,
+      "name": "Francini Zequim",
+      "balance": 500.2
+    },
+    {
+      "id": 3,
+      "name": "Simone Fagundes",
+      "balance": 5000
+    },
+    {
+      "id": 6,
+      "name": "Osmari castro",
+      "balance": 6350.95
+    },
+    {
+      "id": 7,
+      "name": "Franco Zequim",
+      "balance": 0
+    },
+    {
+      "id": 9,
+      "name": "Isabela Fagundes castro",
+      "balance": 2350.33
+    },
+    {
+      "id": 11,
+      "name": "Osmari Castro",
+      "balance": 1250.23
+    },
+    {
+      "id": 12,
+      "name": "Leonardo F Castro",
+      "balance": 50000.2
+    }
+  ]
+}

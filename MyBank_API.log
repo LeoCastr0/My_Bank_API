@@ -1,0 +1,184 @@
+2021-05-29T03:12:57.874Z [MyBank_API] info: API Started!
+2021-05-29T03:13:13.133Z [MyBank_API] info: PATCH /account/updateBalance - {"id":4,"balance":5010.51}
+2021-05-29T03:13:25.087Z [MyBank_API] info: GET / account
+2021-05-29T03:13:43.036Z [MyBank_API] info: GET / account/:id
+2021-05-29T03:13:47.825Z [MyBank_API] info: GET / account/:id
+2021-05-29T03:18:29.510Z [MyBank_API] info: API Started!
+2021-05-29T03:18:43.587Z [MyBank_API] error: POST /account accont is not defined
+2021-05-29T03:19:16.012Z [MyBank_API] info: API Started!
+2021-05-29T03:19:18.334Z [MyBank_API] info: POST /account - {"id":6,"name":"Osmari castro","balance":6350.95}
+2021-05-29T03:19:43.736Z [MyBank_API] error: POST /account Name e Balance são obrigatórios.
+2021-05-29T03:20:16.446Z [MyBank_API] error: POST /account Name e Balance são obrigatórios.
+2021-05-29T03:20:31.931Z [MyBank_API] info: API Started!
+2021-05-29T03:20:42.931Z [MyBank_API] info: POST /account - {"id":7,"name":"Franco Zequim","balance":0}
+2021-05-29T03:20:56.045Z [MyBank_API] error: POST /account Name e Balance são obrigatórios.
+2021-05-29T03:22:54.181Z [MyBank_API] info: API Started!
+2021-05-29T03:24:05.525Z [MyBank_API] info: API Started!
+2021-05-29T03:24:33.575Z [MyBank_API] info: PUT /account - {"id":10,"name":"Isabela Fagundes castro","balance":2350.33}
+2021-05-29T03:24:49.286Z [MyBank_API] info: PUT /account - {"id":4,"name":"Isabela Fagundes castro","balance":2350.33}
+2021-05-29T03:26:59.540Z [MyBank_API] info: API Started!
+2021-05-29T03:27:09.878Z [MyBank_API] error: PUT /account Registro não encontrado
+2021-05-29T03:28:23.649Z [MyBank_API] info: API Started!
+2021-05-29T03:29:07.016Z [MyBank_API] info: API Started!
+2021-05-29T03:29:34.281Z [MyBank_API] error: PUT /account Registro não encontrado
+2021-05-29T03:29:38.457Z [MyBank_API] info: PUT /account - {"id":4,"name":"Isabela Fagundes castro","balance":2350.33,"askjasl":"ashkdjhkj"}
+2021-05-29T03:31:20.538Z [MyBank_API] info: POST /account - {"id":8,"name":"Isabela Castro","balance":500.3}
+2021-05-29T03:31:32.025Z [MyBank_API] info: PUT /account - {"id":8,"name":"Isabela Fagundes castro","balance":2350.33,"askjasl":"ashkdjhkj"}
+2021-05-29T03:35:10.997Z [MyBank_API] info: API Started!
+2021-05-29T03:35:17.574Z [MyBank_API] error: PUT /account Registro não encontrado
+2021-05-29T03:35:24.634Z [MyBank_API] info: POST /account - {"id":9,"name":"Isabela Castro","balance":500.3}
+2021-05-29T03:35:37.119Z [MyBank_API] info: PUT /account - {"id":9,"name":"Isabela Fagundes castro","balance":2350.33,"askjasl":"ashkdjhkj"}
+2021-05-29T03:37:30.416Z [MyBank_API] info: API Started!
+2021-05-29T03:37:34.887Z [MyBank_API] info: PUT /account - {"id":9,"name":"Isabela Fagundes castro","balance":2350.33,"askjasl":"ashkdjhkj"}
+2021-05-29T03:38:23.823Z [MyBank_API] info: API Started!
+2021-05-29T03:38:26.354Z [MyBank_API] info: PUT /account - {"id":9,"name":"Isabela Fagundes castro","balance":2350.33,"askjasl":"ashkdjhkj"}
+2021-05-29T03:39:10.984Z [MyBank_API] info: API Started!
+2021-05-29T03:40:19.794Z [MyBank_API] info: API Started!
+2021-05-29T03:40:56.761Z [MyBank_API] info: PATCH /account/updateBalance - {"id":1,"balance":15010.51}
+2021-05-29T03:41:43.811Z [MyBank_API] info: API Started!
+2021-05-29T03:41:58.978Z [MyBank_API] info: PATCH /account/updateBalance - {"id":1}
+2021-05-29T03:42:56.107Z [MyBank_API] info: API Started!
+2021-05-29T03:43:01.855Z [MyBank_API] info: PATCH /account/updateBalance - {"id":1}
+2021-05-29T03:43:02.637Z [MyBank_API] info: PATCH /account/updateBalance - {"id":1}
+2021-05-29T03:44:29.788Z [MyBank_API] info: API Started!
+2021-05-29T03:44:32.195Z [MyBank_API] error: PATCH /account ID e Balance são obrigatórios.
+2021-05-29T03:45:06.092Z [MyBank_API] info: PATCH /account/updateBalance - {"id":1,"balance":15001.2}
+2021-05-29T03:45:25.015Z [MyBank_API] info: PUT /account - {"id":9,"name":"Isabela Fagundes castro","balance":2350.33,"askjasl":"ashkdjhkj"}
+2021-05-29T03:45:27.004Z [MyBank_API] info: PUT /account - {"id":9,"name":"Isabela Fagundes castro","balance":2350.33,"askjasl":"ashkdjhkj"}
+2021-05-29T03:45:27.631Z [MyBank_API] info: PUT /account - {"id":9,"name":"Isabela Fagundes castro","balance":2350.33,"askjasl":"ashkdjhkj"}
+2021-05-29T03:45:28.213Z [MyBank_API] info: PUT /account - {"id":9,"name":"Isabela Fagundes castro","balance":2350.33,"askjasl":"ashkdjhkj"}
+2021-05-29T03:45:42.173Z [MyBank_API] error: PUT /account Name e Balance são obrigatórios.
+2021-05-29T03:47:08.137Z [MyBank_API] info: API Started!
+2021-05-29T03:47:37.372Z [MyBank_API] info: API Started!
+2021-05-29T03:47:39.254Z [MyBank_API] error: PUT /account ID, Name e Balance são obrigatórios.
+2021-05-29T03:48:06.050Z [MyBank_API] info: GET / account
+2021-05-29T13:06:05.633Z [MyBank_API] info: API Started!
+2021-05-29T13:11:19.562Z [MyBank_API] info: API Started!
+2021-05-29T13:12:38.922Z [MyBank_API] info: GET / account
+2021-05-29T13:14:42.356Z [MyBank_API] info: GET / account
+2021-05-29T13:14:56.605Z [MyBank_API] info: GET / account
+2021-05-29T13:14:58.253Z [MyBank_API] info: GET / account
+2021-05-29T13:14:58.642Z [MyBank_API] info: GET / account
+2021-05-29T13:14:58.809Z [MyBank_API] info: GET / account
+2021-05-29T13:14:58.977Z [MyBank_API] info: GET / account
+2021-05-29T13:18:14.014Z [MyBank_API] info: GET / account
+2021-05-29T13:18:23.551Z [MyBank_API] info: GET / account
+2021-05-29T13:19:11.612Z [MyBank_API] info: GET / account
+2021-05-29T13:19:44.934Z [MyBank_API] info: API Started!
+2021-05-29T13:19:47.472Z [MyBank_API] info: GET / account
+2021-05-29T13:19:48.124Z [MyBank_API] info: GET / account
+2021-05-29T13:19:54.362Z [MyBank_API] info: API Started!
+2021-05-29T13:20:02.360Z [MyBank_API] info: API Started!
+2021-05-29T13:20:04.075Z [MyBank_API] info: GET / account
+2021-05-29T13:28:03.711Z [MyBank_API] info: GET / account
+2021-05-29T13:28:58.502Z [MyBank_API] info: GET / account
+2021-05-29T13:30:23.236Z [MyBank_API] info: API Started!
+2021-05-29T13:30:50.100Z [MyBank_API] info: API Started!
+2021-05-29T13:30:55.534Z [MyBank_API] info: GET / account
+2021-05-29T13:32:08.439Z [MyBank_API] info: API Started!
+2021-05-29T13:32:15.315Z [MyBank_API] info: API Started!
+2021-05-29T13:32:40.245Z [MyBank_API] info: API Started!
+2021-05-29T13:32:44.344Z [MyBank_API] info: GET / account
+2021-05-29T13:32:45.114Z [MyBank_API] info: GET / account
+2021-05-29T13:33:13.102Z [MyBank_API] info: GET / account/:id
+2021-05-29T13:33:44.095Z [MyBank_API] info: API Started!
+2021-05-29T13:33:55.616Z [MyBank_API] info: API Started!
+2021-05-29T14:12:29.691Z [MyBank_API] info: API Started!
+2021-05-29T14:14:11.994Z [MyBank_API] info: API Started!
+2021-05-29T14:17:50.233Z [MyBank_API] info: API Started!
+2021-05-29T14:18:36.231Z [MyBank_API] info: API Started!
+2021-05-29T14:19:05.107Z [MyBank_API] info: GET / account
+2021-05-29T14:19:08.623Z [MyBank_API] info: GET / account
+2021-05-29T14:20:33.465Z [MyBank_API] info: GET / account
+2021-05-29T14:20:34.177Z [MyBank_API] info: GET / account
+2021-05-29T14:22:48.446Z [MyBank_API] info: API Started!
+2021-05-29T18:46:55.919Z [MyBank_API] info: API Started!
+2021-05-29T18:47:11.681Z [MyBank_API] info: GET / account/:id
+2021-05-29T18:47:14.376Z [MyBank_API] info: GET / account
+2021-05-29T18:47:58.140Z [MyBank_API] info: API Started!
+2021-05-29T18:48:02.103Z [MyBank_API] info: POST /account - {"id":10,"name":"Isabela Castro","balance":500.3}
+2021-05-29T18:48:05.826Z [MyBank_API] info: GET / account
+2021-05-29T18:48:22.310Z [MyBank_API] info: GET / account
+2021-05-30T00:25:08.318Z [MyBank_API] info: API Started!
+2021-05-30T00:30:52.546Z [MyBank_API] info: API Started!
+2021-05-30T00:30:55.006Z [MyBank_API] info: API Started!
+2021-05-30T00:33:42.332Z [MyBank_API] info: API Started!
+2021-05-30T00:36:08.187Z [MyBank_API] info: API Started!
+2021-05-30T00:36:39.763Z [MyBank_API] info: API Started!
+2021-05-30T00:38:08.149Z [MyBank_API] info: API Started!
+2021-05-30T00:39:13.133Z [MyBank_API] info: API Started!
+2021-05-30T00:39:46.863Z [MyBank_API] info: API Started!
+2021-05-30T00:40:07.489Z [MyBank_API] info: GET / account
+2021-05-30T00:40:22.653Z [MyBank_API] info: PATCH /account/updateBalance - {"id":2,"balance":500.2}
+2021-05-30T00:40:34.479Z [MyBank_API] info: GET / account/:id
+2021-05-30T00:40:37.511Z [MyBank_API] info: GET / account/:id
+2021-05-30T00:40:42.969Z [MyBank_API] info: GET / account/:id
+2021-05-30T00:44:42.497Z [MyBank_API] info: API Started!
+2021-05-30T00:48:19.036Z [MyBank_API] info: API Started!
+2021-05-30T00:50:02.621Z [MyBank_API] info: API Started!
+2021-05-30T00:52:00.960Z [MyBank_API] info: API Started!
+2021-05-30T00:52:02.740Z [MyBank_API] info: API Started!
+2021-05-30T00:54:28.314Z [MyBank_API] info: API Started!
+2021-05-30T00:54:37.523Z [MyBank_API] info: POST /account - {"id":11,"name":"Osmari Castro","balance":1250.23}
+2021-05-30T00:59:14.436Z [MyBank_API] info: API Started!
+2021-05-30T00:59:15.719Z [MyBank_API] info: API Started!
+2021-05-30T01:01:03.457Z [MyBank_API] info: API Started!
+2021-05-30T01:01:41.327Z [MyBank_API] info: API Started!
+2021-05-30T01:01:42.351Z [MyBank_API] info: API Started!
+2021-05-30T01:04:55.775Z [MyBank_API] info: API Started!
+2021-05-30T01:06:55.226Z [MyBank_API] info: API Started!
+2021-05-30T01:07:54.675Z [MyBank_API] info: API Started!
+2021-05-30T01:07:56.153Z [MyBank_API] info: API Started!
+2021-05-30T01:08:20.170Z [MyBank_API] info: API Started!
+2021-05-30T01:09:52.254Z [MyBank_API] info: API Started!
+2021-05-30T01:10:38.722Z [MyBank_API] info: API Started!
+2021-05-30T01:15:13.081Z [MyBank_API] info: API Started!
+2021-05-30T01:15:14.658Z [MyBank_API] info: API Started!
+2021-05-30T01:16:15.010Z [MyBank_API] info: API Started!
+2021-05-30T01:16:16.250Z [MyBank_API] info: API Started!
+2021-05-30T01:16:33.500Z [MyBank_API] info: GET / account
+2021-05-30T01:16:41.039Z [MyBank_API] info: GET / account/:id
+2021-05-30T01:39:13.015Z [MyBank_API] info: API Started!
+2021-05-30T01:46:16.206Z [MyBank_API] info: API Started!
+2021-05-30T01:46:35.235Z [MyBank_API] info: GET / account
+2021-05-30T01:48:37.205Z [MyBank_API] info: API Started!
+2021-05-30T01:48:51.596Z [MyBank_API] info: API Started!
+2021-05-30T01:51:12.120Z [MyBank_API] info: API Started!
+2021-05-30T01:51:30.228Z [MyBank_API] info: API Started!
+2021-05-30T01:53:52.073Z [MyBank_API] info: API Started!
+2021-05-30T01:53:53.191Z [MyBank_API] info: API Started!
+2021-05-30T01:55:19.756Z [MyBank_API] info: API Started!
+2021-05-30T01:55:33.132Z [MyBank_API] info: API Started!
+2021-05-30T15:11:55.773Z [MyBank_API] info: API Started!
+2021-05-30T15:12:07.179Z [MyBank_API] info: GET / account
+2021-05-30T15:12:10.318Z [MyBank_API] info: GET / account/:id
+2021-05-30T15:12:35.909Z [MyBank_API] info: DELETE /account/:id - 10
+2021-05-30T15:12:43.780Z [MyBank_API] info: GET / account
+2021-05-30T15:12:56.852Z [MyBank_API] info: POST /account - {"id":12,"name":"Leonardo F Castro","balance":1250.23}
+2021-05-30T15:13:27.538Z [MyBank_API] info: PATCH /account/updateBalance - {"id":12,"balance":50000.2}
+2021-05-30T15:15:07.472Z [MyBank_API] info: API Started!
+2021-05-30T15:15:30.514Z [MyBank_API] info: API Started!
+2021-05-30T15:16:02.271Z [MyBank_API] info: API Started!
+2021-05-30T15:16:10.733Z [MyBank_API] info: API Started!
+2021-05-30T15:16:31.576Z [MyBank_API] info: API Started!
+2021-05-30T15:17:10.868Z [MyBank_API] info: API Started!
+2021-05-30T18:17:58.936Z [MyBank_API] info: API Started!
+2021-06-10T04:40:07.658Z [MyBank_API] info: API Started!
+2021-06-10T04:40:41.651Z [MyBank_API] info: GET / account
+2021-06-10T04:46:52.867Z [MyBank_API] info: API Started!
+2021-06-10T04:47:20.497Z [MyBank_API] info: API Started!
+2021-06-10T04:47:25.769Z [MyBank_API] info: GET / account
+2021-06-10T04:47:51.149Z [MyBank_API] error: GET /account Registro não encontrado.
+2021-06-10T04:47:55.930Z [MyBank_API] info: GET / account/:id
+2021-06-10T04:53:03.100Z [MyBank_API] info: API Started!
+2021-06-10T04:54:31.485Z [MyBank_API] info: API Started!
+2021-06-10T04:56:25.011Z [MyBank_API] info: API Started!
+2021-06-10T04:56:48.672Z [MyBank_API] info: API Started!
+2021-06-10T04:58:11.251Z [MyBank_API] info: API Started!
+2021-06-10T04:59:08.844Z [MyBank_API] info: GET / account/:id
+2021-06-10T04:59:28.110Z [MyBank_API] info: GET / account/:id
+2021-06-10T04:59:48.379Z [MyBank_API] info: API Started!
+2021-06-10T05:00:08.125Z [MyBank_API] info: API Started!
+2021-06-10T05:04:58.815Z [MyBank_API] info: GET / account
+2021-06-10T05:10:07.158Z [MyBank_API] info: API Started!
+2021-06-10T05:15:05.449Z [MyBank_API] info: GET / account
